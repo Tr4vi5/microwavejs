@@ -28,5 +28,5 @@ You can also edit the inputs there if you'd like to test other behaviors
 Run the tests with `yarn test`
 
 ## Known issues
-* There are methods and properties that should be private, the only public properties should be the methods `enterDigit` and `start`.
+* There are methods and properties that should be private, the only public properties should be the methods `enterDigit` and `start`. I ran into some babel issues trying to do this, so I decided to skip it.
 * You can start the microwave while it's already running, and due to the recursive nature of the timer I couldn't quickly think of an elegant way to prevent that from happening. I'm probably just short on sleep at the moment
