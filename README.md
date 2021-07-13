@@ -1,7 +1,13 @@
 # Microwave Simulator!
 This is a small command line microwave simulator written in JavaScript!
 
-![I promise this is a real microwave](https://gfycat.com/esteemedsaltycommongonolek)
+Cooking finish:
+
+![I promise this is a real microwave](https://media2.giphy.com/media/YCNvlSl5qhIbg4sggG/giphy.gif?cid=790b7611e8230c1ed31addfdd06976affb61b7169572b3c4&rid=giphy.gif&ct=g)
+
+Minutes to seconds: 
+
+![I promise this is a real microwave](https://media0.giphy.com/media/2DrfbIjws7umt7CAZm/giphy.gif?cid=790b7611c6342c4c7af94d2c53a63211c7962fc61e7bd21d&rid=giphy.gif&ct=g)
 
 ## Features
 * Can accept four inputs and will ignore subsequent inputs with a message to the user

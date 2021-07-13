@@ -24,7 +24,7 @@ export default class Microwave {
             return null
         }
         this.inputAmount += 1 
-        console.log("Entering number *Beep*")
+        console.log(`Entering number ${digit} *Beep*`)
         // Get rid of the first elementy in the timer array and push the digit
         this.timerArray.shift()
         this.timerArray.push(digit)
