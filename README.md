@@ -1,9 +1,12 @@
 # Microwave Simulator!
 This is a small command line microwave simulator written in JavaScript!
 
+![I promise this is a real microwave](https://gfycat.com/esteemedsaltycommongonolek)
+
 ## Features
 * Can accept four inputs and will ignore subsequent inputs with a message to the user
 * Displays a decrementing counter
+* Tells you when cooking starts and finishes!
 
 ## Setup
 Install node >= 15 (Using [nodenv](https://github.com/nodenv/nodenv) or [nvm](https://github.com/nvm-sh/nvm) is recommended)
